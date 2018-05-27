@@ -7,3 +7,5 @@ row1 = [ " ", " ", " "]
 row2 = [ " "," ", " "]
 
 board = [row[0], row[1], row[2], row1[0],  row1[1], row1[2] row2[0], row2[1], row2[2]]
+def display_board =  "|"  puts "------------"
+end
